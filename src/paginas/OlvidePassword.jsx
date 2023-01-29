@@ -2,7 +2,12 @@
 const OlvidePassword = () => {
   return (
     <>
-        <h1>Desde olvidé Password</h1>
+        <div>
+          1
+        </div>
+        <div>
+          2
+        </div>
     </>
   )
 };
