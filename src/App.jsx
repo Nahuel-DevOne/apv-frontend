@@ -21,6 +21,9 @@ function App() {
             <Route path='olvide-password/:token' element={<NuevoPassword />} />
             <Route path='confirmar/:id' element={<ConfirmarCuenta />} />
           </Route>
+
+
+          
         </Routes>
       </AuthProvider>
     </BrowserRouter>
